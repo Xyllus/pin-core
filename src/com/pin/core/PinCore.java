@@ -8,6 +8,7 @@ public class PinCore {
     public static void main(String[] args) {
         IntegerSelector intSelector = new IntegerSelector(5);
         StdPrinter.print(intSelector);
+        StdPrinter.print(intSelector);
     }
 
 }
